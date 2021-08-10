@@ -1,0 +1,17 @@
+{
+    "songList": [
+      {
+        "name": "first",
+        "rating": 8.8,
+        "noteList": "[D, E, F#, B]",
+        "key": "D"
+      },
+      {
+        "name": "second",
+        "rating": 4.5,
+        "noteList": "[E, E, E, E, E, E, E, E, E, E, E]",
+        "key": "E"
+      }
+    ],
+    "name": "My song list"
+}

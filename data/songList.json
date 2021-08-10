@@ -1,0 +1,29 @@
+{
+    "name": "Next Biggest Hits",
+    "songList": [
+        {
+            "name": "first song",
+            "rating": 5.3,
+            "noteList": "[G, Bb, C, E]",
+            "key": "D"
+        },
+        {
+            "name": "second song",
+            "rating": 6.5,
+            "noteList": "[D, D, D]",
+            "key": "F#"
+        },
+        {
+            "name": "third song",
+            "rating": 4.3,
+            "noteList": "[C#, F#, C#, F#]",
+            "key": "F"
+        },
+        {
+            "name": "Big hit",
+            "rating": 0.4,
+            "noteList": "[F#, E, D, G, C]",
+            "key": "A"
+        }
+    ]
+}
